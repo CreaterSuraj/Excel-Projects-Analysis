@@ -1,0 +1,97 @@
+Sales Dashboard 2
+
+The Sales Performance Dashboard is an interactive business intelligence solution developed in Microsoft Excel to analyze sales, profit, customer orders, and regional performance. The dashboard consolidates data from multiple datasets and presents key business metrics through dynamic charts, Pivot Tables, and interactive slicers, enabling users to make informed, data-driven decisions.
+
+This project demonstrates how Excel can be used as a powerful analytics and reporting tool for business performance monitoring.
+
+🎯 Objectives
+Monitor overall sales and profit performance.
+Analyze monthly sales and profit trends.
+Identify the most profitable states and product categories.
+Evaluate regional sales distribution.
+Track order returns and shipping performance.
+Build an interactive dashboard for business reporting.
+📈 Dashboard Features
+📌 Key Performance Indicators (KPIs)
+Total Sales
+Total Profit
+Total Orders
+Profit Margin
+Return Analysis
+📅 Trend Analysis
+Monthly Sales Trend
+Monthly Profit Trend
+Sales Growth Analysis
+📦 Product Performance
+Sales by Category
+Sales & Profit by Sub-Category
+Best and Worst Performing Products
+🌍 Regional Analysis
+Region-wise Units Sold
+Top 5 Profitable States
+Geographic Sales Comparison
+🚚 Shipping Analysis
+Most Used Shipping Mode
+Shipping Performance Comparison
+🎛 Interactive Filters
+
+Users can dynamically filter the dashboard using slicers to explore data by:
+
+Region
+Category
+Ship Mode
+Time Period
+Customer Segment
+🛠 Tools & Techniques Used
+Microsoft Excel
+Pivot Tables
+Pivot Charts
+Power Query
+Data Cleaning
+Data Validation
+Conditional Formatting
+Interactive Slicers
+KPI Cards
+Dashboard Design
+📂 Dataset
+
+The dashboard is built using multiple related datasets, including:
+
+Orders
+Returns
+Users
+Sales Transactions
+Product Categories
+Shipping Details
+Regional Information
+📊 Business Insights
+
+The dashboard enables stakeholders to:
+
+Track sales and profit performance over time.
+Identify high-performing and underperforming product categories.
+Analyze profitability by state and region.
+Monitor shipping methods and operational efficiency.
+Understand return patterns to improve customer satisfaction.
+Support strategic business decisions using interactive reports.
+💼 Business Value
+
+This dashboard helps organizations:
+
+Reduce manual reporting effort through automation.
+Monitor KPIs in real time.
+Improve sales and profitability analysis.
+Identify growth opportunities across regions and categories.
+Enhance decision-making with interactive visualizations.
+🚀 Skills Demonstrated
+Data Cleaning
+Data Analysis
+Business Intelligence
+Dashboard Design
+Microsoft Excel
+Pivot Tables
+Pivot Charts
+Power Query
+KPI Reporting
+Interactive Reporting
+Data Visualization
